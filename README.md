@@ -19,7 +19,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Live Site URL: [Add live site URL here]([https://your-live-site-url.com](https://wonderful-entremet-1124ef.netlify.app/))
+- Live Site URL: [https://wonderful-entremet-1124ef.netlify.app]
 
 ### Built with
 
