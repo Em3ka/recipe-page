@@ -139,7 +139,7 @@ img {
   list-style: none;
 }
 
-.recipe__nutrition-table-item {
+.recipe__nutrition-list-item {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   padding-inline-start: 2rem;
@@ -148,7 +148,7 @@ img {
 }
 
 .recipe__wrapper:last-of-type,
-.recipe__nutrition-table-item:last-of-type {
+.recipe__nutrition-list-item:last-of-type {
   border-bottom: none;
 }
 
